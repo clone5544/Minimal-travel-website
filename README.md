@@ -26,7 +26,6 @@ Responsive EzStay landing page using bootstrap
 ![Gallery section](./assets/hover-effect.png)
 
 ### Links
-- [Live Site URL](https://polite-meringue-03be1c.netlify.app/)
+- [Live Site URL]([https://polite-meringue-03be1c.netlify.app/](https://clone5544.github.io/Minimal-travel-website/))
 
-### Credit
-- [Web Design from Shaynakit](https://shaynakit.com/landing)
+ 
