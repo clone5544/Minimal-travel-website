@@ -1,6 +1,10 @@
 # EzStay-Landing-Page
 Responsive EzStay landing page using bootstrap
 
+live site at : 
+
+https://clone5544.github.io/Minimal-travel-website/#
+
 ## Table of contents
 - [Overview](#overview)
   - [The challenge](#the-challenge)
