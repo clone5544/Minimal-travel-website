@@ -6,13 +6,9 @@ Responsive EzStay landing page using bootstrap
   - [The challenge](#the-challenge)
   - [Built with](#built-with)
   - [Screenshot](#screenshot)
-  - [Links](#links)
-  - [Credit](#credit)
+ 
 
-
-## Overview
-
-### The challenge
+ 
 
 - Build out the project to the designs provided
 
@@ -26,6 +22,6 @@ Responsive EzStay landing page using bootstrap
 ![Gallery section](./assets/hover-effect.png)
 
 ### Links
-- [Live Site URL]([https://polite-meringue-03be1c.netlify.app/](https://clone5544.github.io/Minimal-travel-website/))
+- [Live Site URL]((https://clone5544.github.io/Minimal-travel-website/))
 
  
